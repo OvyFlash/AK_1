@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
@@ -24,3 +25,10 @@ class Calculator
 12
 13
 */
+=======
+class Calculator
+{
+    public:
+        int Add (int, int);
+};
+>>>>>>> 9972170... basic implementation

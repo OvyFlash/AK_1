@@ -1,5 +1,6 @@
 #include "calculator.h"
 
+<<<<<<< HEAD
 int Calculator::Add (double a, double b)
 {
 	return a + b + 0.5;
@@ -24,3 +25,9 @@ int Calculator::Sub (double a, double b)
 12
 13
 */
+=======
+int Calculator::Add (int a, int b)
+{
+    return a + b;
+}
+>>>>>>> 9972170... basic implementation
